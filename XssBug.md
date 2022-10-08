@@ -1,8 +1,8 @@
 Bug Submitter: 佟金波
 
-[Password Storage Application v1.0](https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html) was discovered to contain a cross-site scripting (XSS) vulnerability via the add-fee.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the cmddept parameter.
+[Password Storage Application v1.0](https://www.sourcecodester.com/php/15726/password-storage-application-phpoop-and-mysql-free-source-code.html) was discovered to contain a cross-site scripting (XSS) vulnerability via the add-fee.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the cmddept parameter.
 
-1. vendors: [sourcecodester.com](https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html);
+1. vendors: [sourcecodester.com](https://www.sourcecodester.com/php/15726/password-storage-application-phpoop-and-mysql-free-source-code.html);
   
 2. Vulnerability location: /psa_php/api.php?action=save
   
